@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\02_guardado_proyectos.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_guardado_proyectos.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\01_verificacion_v2.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_verificacion_v2.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\00_migracion_arquitectura_v2.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:00_migracion_arquitectura_v2.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "02_guardado_proyectos.sql - (local)\\SQLEXPRESS.master (FER\\antoa (55))",
+              "DocumentMoniker": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\02_guardado_proyectos.sql",
+              "RelativeDocumentMoniker": "02_guardado_proyectos.sql",
+              "ToolTip": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\02_guardado_proyectos.sql - (local)\\SQLEXPRESS.master (FER\\antoa (55))",
+              "RelativeToolTip": "02_guardado_proyectos.sql - (local)\\SQLEXPRESS.master (FER\\antoa (55))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-17T18:47:08.369Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (FER\\antoa (55))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01_verificacion_v2.sql - (local)\\SQLEXPRESS.master (FER\\antoa (78))",
+              "DocumentMoniker": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\01_verificacion_v2.sql",
+              "RelativeDocumentMoniker": "01_verificacion_v2.sql",
+              "ToolTip": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\01_verificacion_v2.sql - (local)\\SQLEXPRESS.master (FER\\antoa (78))",
+              "RelativeToolTip": "01_verificacion_v2.sql - (local)\\SQLEXPRESS.master (FER\\antoa (78))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-17T18:47:05.296Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (FER\\antoa (78))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "00_migracion_arquitectura_v2.sql - (local)\\SQLEXPRESS.master (FER\\antoa (66))",
+              "DocumentMoniker": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\00_migracion_arquitectura_v2.sql",
+              "RelativeDocumentMoniker": "00_migracion_arquitectura_v2.sql",
+              "ToolTip": "C:\\Users\\antoa\\Downloads\\Proyecto_PAT avance\\Proyecto_PAT avance\\Proyecto_PAT avance\\sql\\00_migracion_arquitectura_v2.sql - (local)\\SQLEXPRESS.master (FER\\antoa (66))",
+              "RelativeToolTip": "00_migracion_arquitectura_v2.sql - (local)\\SQLEXPRESS.master (FER\\antoa (66))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-17T18:46:58.376Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (FER\\antoa (66))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

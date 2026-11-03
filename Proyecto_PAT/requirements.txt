@@ -1,0 +1,15 @@
+streamlit>=1.63.0
+pandas
+numpy
+plotly
+requests
+Pillow
+shapely
+pyproj
+folium
+streamlit-folium
+streamlit-image-coordinates
+pyodbc
+python-dotenv
+tavily-python
+openai

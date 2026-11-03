@@ -1,0 +1,6 @@
+ID_Emisor,Tipo Emisor,Caudal Nominal LPH,Presion Operación mca,Radio Mojado m,Unidad Venta,Precio RefCLP
+E-001,Cinta de Goteo 16mm,1.5,10,0.0,Rollo 1000m,"$65,000 "
+E-002,Gotero Autocompensante,4.0,15,0.0,Unidad,$150 
+E-003,Microaspersor,45.0,20,2.5,Unidad,$600 
+E-004,Aspersor Plástico 0.50,600.0,25,10.0,Unidad,"$3,500 "
+E-005,Aspersor Metálico 0.75,1200.0,30,14.0,Unidad,"$6,000 "

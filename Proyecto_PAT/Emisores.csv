@@ -1,0 +1,7 @@
+ID_Tubo,Material,Diametro_Nominal_mm,Diametro_Pulgadas,Diametro_Interior_mm,Factor_C,Rugosidad_e_mm,Largo_Tira_m,Precio_Tira_CLP_Ref
+T-001,PVC PN10,20,0.5,18,150,0.0015,6,"$1,800 "
+T-002,PVC PN10,25,0.75,22.6,150,0.0015,6,"$2,600 "
+T-003,PVC PN10,32,1,29,150,0.0015,6,"$4,000 "
+T-004,PVC PN10,40,1.25,36.2,150,0.0015,6,"$6,000 "
+T-005,PVC PN10,50,1.5,45.2,150,0.0015,6,"$9,500 "
+T-006,PVC PN10,63,2,57,150,0.0015,6,"$14,000 "

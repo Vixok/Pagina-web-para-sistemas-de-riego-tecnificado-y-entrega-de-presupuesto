@@ -1,0 +1,5 @@
+MATERIALES TUBERIAS,,,
+MATERIAL,RUGOSIDAD ABSOLUTA e(mm),Factor C (Hazen-Williams) (limite inferior),Factor C (Hazen-Williams) (limite superior)
+PVC/Plástico,0.0015,150,
+Acero Comercial/soldado,0.045,130,140
+Hierro galvanizado,0.15,130,140
